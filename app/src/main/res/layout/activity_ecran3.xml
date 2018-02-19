@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_google_signin_btn_text_dark_default"
+    tools:context="com.example.gagne.app_workshop_b3.Ecran3">
+
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:background="@color/common_google_signin_btn_text_dark_default"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="300dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="19dp"
+            android:src="@drawable/logo"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="23dp"
+            android:layout_marginEnd="23dp" />
+
+        <Button
+            android:id="@+id/button_Valider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@android:color/holo_orange_dark"
+            android:onClick="onClickAdd"
+            android:text="Valider"
+            android:textColor="@color/common_google_signin_btn_text_dark_focused"
+            android:textStyle="bold"
+            android:layout_below="@+id/editText_AdresseEmail"
+            android:layout_alignRight="@+id/editText_AdresseEmail"
+            android:layout_alignEnd="@+id/editText_AdresseEmail"
+            android:layout_marginRight="35dp"
+            android:layout_marginEnd="35dp" />
+
+        <TextView
+            android:id="@+id/textView_gfi"
+            android:layout_width="100dp"
+            android:layout_height="25dp"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="47dp"
+            android:layout_toEndOf="@+id/editText_AdresseEmail"
+            android:layout_toRightOf="@+id/editText_AdresseEmail"
+            android:allowUndo="false"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/editText_AdresseEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:allowUndo="true"
+            android:ems="10"
+            android:hint="email"
+            android:inputType="textEmailAddress"
+            android:layout_alignBaseline="@+id/textView_gfi"
+            android:layout_alignBottom="@+id/textView_gfi"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

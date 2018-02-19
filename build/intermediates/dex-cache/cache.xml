@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\.android\build-cache\f9f3489444d245c2a70f30d8c082eb1f4a62b127\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_752fdbc4f8f45250ed1cb0d017dfb8c572c886df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d11428b6b03cdb87a26051610e145921966e62e2">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f6c0f3c9ad64e67783bb9884e4df0d5f5cdb906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\.android\build-cache\3bc870db1f0463125f1759e120283549d8571b91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e62a6c4d41d0e642d56da6261eb2b39126dc4b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\.android\build-cache\c11d9c1b8cd700d81c90000ed841295eac6b65bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5ad3b248058318f14e264c38ae54abccc8c4426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\.android\build-cache\be970f77f0ac77a59238a187c3238b646f55e042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_141609ebaa5fd73c23c0424908c571eb50ae7300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\.android\build-cache\fe729a8275c8bf19e4624c1e5e49adf7caf98804\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12dc17c292ce2df7db771189c07083c36bf02639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_28384242c51b1963e03e638328bbd305901eafdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gagne\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\gagne\AndroidStudioProjects\App_Workshop_B3\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9bf28938f6f58672676ffe76d346dc4a6b55938e\classes.dex" />
+    </item>
+
+</items>
