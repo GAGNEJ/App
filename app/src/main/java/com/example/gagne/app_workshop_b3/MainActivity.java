@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Save = (Button)findViewById(R.id.save);
         Date = (EditText)findViewById(R.id.date);
         Title = (EditText)findViewById(R.id.title);
-
         Save.setOnClickListener(this);
 
     }
